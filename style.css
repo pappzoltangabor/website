@@ -20,7 +20,7 @@ h6 {
   font-weight: 700;
 }
 
-a{
+a {
   text-decoration: none;
 }
 
@@ -176,12 +176,15 @@ footer {
     height: 50vh;
     ;
   }
-.hero h1 {
-  font-size: 4rem;
-}
-.lead{
-  font-size: 1rem;
-}
+
+  .hero h1 {
+    font-size: 4rem;
+  }
+
+  .lead {
+    font-size: 1rem;
+  }
+
   .card-body {
     padding: .5rem;
   }
